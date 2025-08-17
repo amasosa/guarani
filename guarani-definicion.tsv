@@ -1,4 +1,4 @@
-Change	Gramatica
+Change		
 PERSON:2_SI	"La segunda persona del singular en guaraní se refiere a ""tú"" o ""vos"", y su tratamiento gramatical es variado, adaptándose a la función de la palabra en la oración y a la naturaleza (oral o nasal) de la raíz. El pronombre personal fundamental para la segunda persona del singular es Nde.
 Aquí se detalla su uso con ejemplos extraídos de las fuentes:
 
@@ -84,7 +84,7 @@ Ejemplo: Terehekýimba’e nde (Tú tal vez sacas).
 2. Modo Optativo (Ñemosus? Mo?mbyre): Expresa un deseo o una decisión.
 El prefijo para la segunda persona del singular es tere.
 Ejemplo: Terejatapy nde (Que tú enciendas).
-Ejemplo: Terema’? nde (Que tú mires)."
+Ejemplo: Terema’? nde (Que tú mires)."	
 TYPE:NEG	"En guaraní, la formación de una oración en negativo se construye utilizando un elemento discontinuo, lo que significa que se emplean partículas prefijas y sufijas que envuelven al lexema verbal. El núcleo de la negación es la forma afirmativa del verbo conjugado.
 A continuación, se explica con ejemplos cómo se pasa una oración a negativo, basándose en las reglas ortográficas y gramaticales del guaraní:
 
@@ -115,7 +115,7 @@ II. Casos Especiales en la Negación
 III. Negación en el Modo Imperativo
 Aunque la pregunta se centra en la negación general, es útil saber que el modo imperativo también tiene su forma negativa, utilizando la partícula Anive (no más, ya no).
 • Ejemplo: Anive reñeno (No te acuestes más).
-En resumen, la clave para formar oraciones negativas en guaraní radica en la correcta aplicación de los prefijos (nd o n) y sufijos (i o ri), a menudo con la adición de una vocal eufónica, siempre basándose en la naturaleza oral o nasal del verbo y su terminación."
+En resumen, la clave para formar oraciones negativas en guaraní radica en la correcta aplicación de los prefijos (nd o n) y sufijos (i o ri), a menudo con la adición de una vocal eufónica, siempre basándose en la naturaleza oral o nasal del verbo y su terminación."	
 ASPECT:IPFV	"El aspecto imperfectivo en guaraní se utiliza para señalar el proceso, la característica y la forma en que se desarrolla la acción verbal. La partícula principal que indica este aspecto es ""ína"". Es importante notar que esta partícula puede recurrir al mismo tiempo que las partículas de tiempo en un mismo verbo, como en el ejemplo ""Aguatava’erã’aína"".
 Un detalle relevante es que para la primera persona del plural, el aspecto imperfectivo con ""ína"" provoca que la partícula de número y persona sea ""ña"" en lugar de ""ja"", debido a que la propia partícula de aspecto nasaliza el verbo. Además, en el caso de la tercera persona (singular y plural), la partícula ""ína"" se manifiesta como ""hína"".
 A continuación, se presentan ejemplos del uso del aspecto imperfectivo con la partícula ""hína"" (o ""ína"" según la persona y armonización):
@@ -134,7 +134,7 @@ A continuación, se presentan ejemplos del uso del aspecto imperfectivo con la pa
     ? Ñande ñamono’õñaína (Nosotros (incluyente) estamos recogiendo).
     ? Ore romono’õroína (Nosotros (excluyente) estamos recogiendo).
     ? Pe? pemono’õpeína (Ustedes/Vosotros estáis recogiendo).
-    ? Ha’ekuéra omono’õhína (Ellos/Ellas están recogiendo)"
+    ? Ha’ekuéra omono’õhína (Ellos/Ellas están recogiendo)"	
 PERSON:3_SI	"La tercera persona del singular en guaraní se manifiesta de diversas maneras según la categoría gramatical, y es importante destacar que, a menudo, la misma forma se utiliza para el singular y el plural en esta persona.
 Aquí se detalla cómo se expresa la tercera persona del singular (él/ella) en el guaraní
 • Verbos (Ñe’?téva)
@@ -165,7 +165,7 @@ Aquí se detalla cómo se expresa la tercera persona del singular (él/ella) en el 
     ? Pronombres demostrativos: Para la tercera persona del singular, los pronombres que señalan personas, animales o cosas sin nombrar directamente son Kóva (este/a), Péva (ese/a), Amóva (aquel/lla), Upéva (ese/esa ausente), Aipóva (aquel/aquella ausente). Un ejemplo es: ""Kóva oñe’? porã"" (Este/a habla bien).
     ? Pronombres posesivos: La forma para la tercera persona del singular es Imba’e (suyo/a).
 • Puso (’)
-    ? El ""puso"" es una consonante oclusiva glotal característica del guaraní. En verbos que comienzan con ""h"", esta ""h"" indica la presencia de un ""puso"" en la raíz del lexema. Por ejemplo, en la tercera persona, el verbo ""comer"" es ho’u, y ""caer"" es ho’a. La tilde en estos ejemplos (e.g., ’u, ’a) marca el ""puso""."
+    ? El ""puso"" es una consonante oclusiva glotal característica del guaraní. En verbos que comienzan con ""h"", esta ""h"" indica la presencia de un ""puso"" en la raíz del lexema. Por ejemplo, en la tercera persona, el verbo ""comer"" es ho’u, y ""caer"" es ho’a. La tilde en estos ejemplos (e.g., ’u, ’a) marca el ""puso""."	
 TENSE:FUT_SIM	"El tiempo futuro simple en guaraní, denominado ""Futuro perfecto"" en los fuentes, indica una acción que se realizará en el futuro sin especificar el momento exacto. Para formar este tiempo, se utiliza la partícula átona ""-ta"".
 Aquí tiene algunos ejemplos para ilustrar su uso:
 
@@ -185,7 +185,7 @@ Ha'e opo'?ta (Él/Ella cantará).
 Ñande ñapo'?ta (Nosotros/as cantaremos - incluyente).
 Ore ropo'?ta (Nosotros/as cantaremos - excluyente).
 Pe? pepo'?ta (Vosotros/as, ustedes cantarán).
-Ha'ekuéra opo'?ta (Ellos/as cantarán)."
+Ha'ekuéra opo'?ta (Ellos/as cantarán)."	- **PERSON:2_PL**: Segunda persona del plural (vosotros/ustedes).
 TENSE:PAS_PLU	"El Pretérito Pluscuamperfecto en guaraní indica que una acción se realizó en un tiempo más lejano que el pretérito perfecto. Para formar este tiempo verbal, se utiliza la partícula tónica ""va’ekue"" unida al lexema.
 A continuación, se presentan ejemplos de cómo se conjuga el Pretérito Pluscuamperfecto, tanto para verbos orales como para verbos nasales:
 Para la primera persona del singular (Che):
@@ -208,7 +208,7 @@ pegueruva’ekue (verbo oral)
 pemo?va’ekue (verbo nasal)
 Para la tercera persona del plural (Ha’ekuéra):
 ogueruva’ekue (verbo oral)
-omo?va’ekue (verbo nasal)"
+omo?va’ekue (verbo nasal)"	
 TENSE:PRE_SIM	"El Presente Simple en guaraní se denomina Ára ag?agua.
 Este tiempo verbal se utiliza para indicar una acción que se realiza en el momento actual en que se habla. Una característica clave del Presente Simple en guaraní es que no utiliza ninguna partícula de tiempo específica para su formación.
 Para conjugar un verbo en Presente Simple, se le anteponen prefijos de número y persona directamente al lexema verbal. La tercera persona, tanto en singular como en plural, mantiene la misma forma. Además, la conjugación distingue entre verbos orales y nasales, adaptando los prefijos en algunos casos por armonización fonética.
@@ -219,7 +219,7 @@ Para la tercera persona del singular (Ha'e), se utiliza oguata (verbo oral,él/el
 Para la primera persona del plural inclusiva (Ñande), la forma es jaguata (verbo oral, nosotros/as caminamos) y ñame'? (verbo nasal, nosotros/as damos).
 Para la primera persona del plural exclusiva (Ore), la conjugación es roguata (verbo oral, nosotros/as caminamos) y rome'? (verbo nasal, nosotros/as damos).
 Para la segunda persona del plural (Pe?), se usa peguata (verbo oral, vosotros/as/ustedes caminan) y peme'? (verbo nasal, vosotros/as/ustedes dan).
-Para la tercera persona del plural (Ha'ekuéra), al igual que en singular, se emplea oguata (verbo oral, ellos/ellas caminan) y ome'? (verbo nasal, ellos/ellas dan)"
+Para la tercera persona del plural (Ha'ekuéra), al igual que en singular, se emplea oguata (verbo oral, ellos/ellas caminan) y ome'? (verbo nasal, ellos/ellas dan)"	- **PERSON:3_PL**: Tercera persona del plural (ellos/ellas).
 PERSON:1_PL_INC	"En guaraní, la primera persona del plural inclusiva se refiere a nosotros en el sentido de tú y yo o ustedes y yo, es decir, que incluye al interlocutor. Esta forma se distingue de la primera persona del plural exclusiva, que excluye al receptor (ore).
 Para expresar esta forma, se utiliza principalmente el pronombre Ñande. En la conjugación verbal, se utilizan los prefijos ja para verbos orales y ña para verbos nasales.
 A continuación, se presentan ejemplos de la primera persona del plural inclusiva en diferentes contextos verbales, sin utilizar tablas, extrayendo la información de las fuentes:
@@ -281,7 +281,7 @@ Modo imperativo rogativo con na: Tajahejána ñande (¡déjanos a nosotros!), tañaño
 Modo imperativo amistoso con mi: Tajajoguami ñande (compraremos nosotros amablemente), tañamombaymi ñande (despertemos nosotros amablemente).
 Modo imperativo compuesto con míkena: Tajapytamíkena ñande (¡por favor, quedémonos nosotros!), tañambyatymíkena ñande (¡por favor, reunámonos nosotros!).
 Modo indeterminado con mba’e: Tajahekýimba’e ñande (quizás nosotros descolgamos), tañamoîmba’e ñande (quizás nosotros ponemos).
-Modo reiterativo con jey: Ñande jajujey (nosotros volvemos), ñañenojey (nosotros volvemos a acostarnos)."
+Modo reiterativo con jey: Ñande jajujey (nosotros volvemos), ñañenojey (nosotros volvemos a acostarnos)."	
 PERSON:1_PL_EXC	"En guaraní, la primera persona del plural exclusivo se refiere a nosotros o nos de una manera que excluye a la persona o personas con las que se está hablando. Es decir, el grupo de nosotros no incluye al oyente. Esta distinción es una característica importante del idioma guaraní.
 El pronombre utilizado para esta forma es ore. Cuando se conjuga un verbo con ore, se utiliza el prefijo ro.
 A continuación, se presentan ejemplos de la primera persona del plural exclusivo:
@@ -301,7 +301,7 @@ Esto se traduce como Él/ella vino con nosotros (excluyendo al oyente). El sufijo
 Como complemento indirecto (basado en la definición de la fuente, ya que no se proporciona un ejemplo directo para oréve en esta función):
 Ome'? oréve.
 Esto significaría Él/ella nos dio (a nosotros, excluyendo al interlocutor). La partícula véve es la forma para el complemento indirecto, y al unirse a ore forma oréve.
-La elección entre la forma inclusiva (ñande) y exclusiva (ore) es fundamental para especificar si el interlocutor es parte o no del grupo al que se hace referencia"
+La elección entre la forma inclusiva (ñande) y exclusiva (ore) es fundamental para especificar si el interlocutor es parte o no del grupo al que se hace referencia"	
 TENSE:PAS_REC	"El Pretérito Reciente en la lengua guaraní es un tiempo verbal que se utiliza para indicar que una acción se realizó en un tiempo pasado, pero de forma reciente. Este tiempo se forma añadiendo la partícula átona “kuri” al lexema verbal.
 Para ilustrar su uso, a continuación se presentan ejemplos para diferentes personas gramaticales, distinguiendo entre verbos orales y nasales, tal como se describe en las fuentes:
 Para verbos orales (como karu  almorzar):
@@ -320,7 +320,7 @@ Para verbos nasales (como ñeno  acostarse o mo?  poner):
  Ore romo?kuri (Nosotros/as (excluyente) pusimos recientemente).
  Pe? peñenókuri (Vosotros/as/ustedes se acostaron recientemente).
  Ha’ekuéra oñenókuri (Ellos/ellas se acostaron recientemente).
-La estructura general para formar el pretérito reciente es la adición de los prefijos de número y persona (a, re, o, ja/ña, ro, pe, o) al lexema verbal, seguido de la partícula kuri"
+La estructura general para formar el pretérito reciente es la adición de los prefijos de número y persona (a, re, o, ja/ña, ro, pe, o) al lexema verbal, seguido de la partícula kuri"	
 TYPE:AFF	"La Forma Afirmativa en la lengua guaraní se refiere a la manera en que se expresa una acción verbal de forma afirmativa, sin la presencia de partículas específicas que indiquen su forma. Es un enunciado normal y carece de partículas de modo.
 Por ejemplo, los siguientes verbos demuestran la forma afirmativa en diferentes personas y números, tanto para verbos orales como nasales:
 Verbos Orales:
@@ -351,7 +351,7 @@ Jajovahéi (nosotros lavamos la cara, incl.)
 Rojovahéi (nosotros lavamos la cara, excl.)
 Rorambosa (nosotros desayunamos, excl.)
 Pejovahéi (ustedes/vosotros lavan la cara)
-Perambosa (ustedes/vosotros desayunan)"
+Perambosa (ustedes/vosotros desayunan)"	
 PERSON:3_PL	"En guaraní, la tercera persona del plural, que corresponde a ellos o ellas en español, se caracteriza por el uso de prefijos verbales específicos y pronombres. Una particularidad importante es que la flexión de la tercera persona es la misma tanto para el singular como para el plural. Esto significa que, a menudo, el contexto o el uso explícito del pronombre ha’ekuéra (ellos/ellas) es lo que indica la pluralidad.
 Aquí se detalla cómo se forma y se utiliza la tercera persona del plural en diferentes contextos:
 Pronombres Personales
@@ -471,7 +471,7 @@ Grados de los Verbos
 Los verbos pueden expresar intensidad en su acción.
 Grado Positivo: No lleva partícula de grado. Por ejemplo, Ha’e oñomi (ellos esconden).
 Grado Superlativo Absoluto (ete, ite, te): Se utiliza ete con vocales débiles, ite con vocales fuertes y te con terminados en e. Por ejemplo, Pejekoite (ustedes se apoyan mucho). Aunque el ejemplo es para la segunda persona del plural, la partícula se aplica a la tercera persona de la misma manera.
-Como se puede observar, la gramática guaraní es altamente aglutinante, y las distinciones de persona y número, así como de voz, tiempo, aspecto y modo, se logran mediante la adición de prefijos y sufijos al lexema verbal, siendo el prefijo o el indicador clave de la tercera persona, tanto singular como plural."
+Como se puede observar, la gramática guaraní es altamente aglutinante, y las distinciones de persona y número, así como de voz, tiempo, aspecto y modo, se logran mediante la adición de prefijos y sufijos al lexema verbal, siendo el prefijo o el indicador clave de la tercera persona, tanto singular como plural."	- **TENSE:PRE_SIM**: Presente Simple (sin partícula de tiempo).
 ASPECT:INM	"El Aspecto Intermitente en guaraní se utiliza para señalar una acción que se realiza en forma intermitente. Este aspecto verbal se forma con la partícula tónica ikóni.
 Para conjugar un verbo en aspecto intermitente con ikóni, esta partícula se añade al lexema del verbo después de los prefijos de número y persona. Es importante considerar la armonización nasal.
 Algunos ejemplos de verbos conjugados en el aspecto intermitente son:
@@ -491,7 +491,7 @@ Ha’e ombotyhikóni (Él/Ella cierra intermitentemente).
 Ore rombotyroikóni (Nosotros/as (excluyente) cerramos intermitentemente).
 Pe? pembotypeikóni (Ustedes/Vosotros/as cierran intermitentemente).
 Ha’ekuéra ombotyhikóni (Ellos/as cierran intermitentemente).
-Cabe destacar que, con las primeras personas del plural (Ñande, Ore), la partícula de número y persona ña se utiliza en lugar de ja con los verbos nasales, porque las partículas de aspecto como ikóni ya nasalizan el verbo."
+Cabe destacar que, con las primeras personas del plural (Ñande, Ore), la partícula de número y persona ña se utiliza en lugar de ja con los verbos nasales, porque las partículas de aspecto como ikóni ya nasalizan el verbo."	
 TENSE:PAS_IMP	"En guaraní, el Tiempo pasado imperfecto se denomina Ára mboyvegua puku. Este tiempo verbal se utiliza para expresar una acción pasada cuyo principio y fin no están definidos. Se forma utilizando la partícula átona mi, la cual se une al lexema verbal.
 A continuación, se presentan ejemplos de cómo se conjuga en este tiempo, tanto para verbos orales como nasales:
 Para verbos orales como joko (detener):
@@ -509,7 +509,7 @@ Para la tercera persona del singular (él, ella), se dice oñatõimi.
 En la primera persona del plural inclusiva (nosotros/as incluyendo al oyente), se usa ñañatõimi.
 En la primera persona del plural exclusiva (nosotros/as excluyendo al oyente), se forma roñatõimi.
 Para la segunda persona del plural (vosotros/as, ustedes), se conjuga peñatõimi.
-Y para la tercera persona del plural (ellos, ellas), es oñatõimi"
+Y para la tercera persona del plural (ellos, ellas), es oñatõimi"	
 PERSON:1_SI	"En guaraní, la primera persona del singular se refiere a yo y se manifiesta de diversas maneras, principalmente a través del pronombre personal Che y prefijos verbales específicos.
 Aquí se detalla cómo se forma y usa la primera persona del singular:
 Pronombre Personal como Sujeto El pronombre Che se utiliza para indicar yo cuando actúa como sujeto de la oración.
@@ -557,7 +557,7 @@ Ejemplos de Recuperación Sintáctica (Énfasis en la primera persona del singular)
  Ndarekói maranduhai. (No tengo información) se prefiere como Nachemaranduhaíri. (No estoy informado).
  Opáma che aravo. (Mi tiempo ha terminado) se prefiere como Che’aravopáma. (Se terminó mi tiempo).
  Ndarekói viru. (No tengo dinero) se prefiere como Ndachevirúi o chesogue. (Estoy sin dinero / estoy quebrado).
- Aguereko kyhyje. (Tengo miedo) se prefiere como Chekyhyje. (Tengo miedo / Estoy asustado)."
+ Aguereko kyhyje. (Tengo miedo) se prefiere como Chekyhyje. (Tengo miedo / Estoy asustado)."	
 PERSON:2_PL	"La segunda persona del plural en Guarani se refiere a ustedes o vosotros/as. A continuación, se detalla su uso y ejemplos en diversas categorías gramaticales, presentados en formato de texto, sin tablas:
 Pronombre Personal Sujeto:
 El pronombre personal que actúa como sujeto para la segunda persona del plural es Pe?.
@@ -596,4 +596,987 @@ Modo Volitivo (deseo de realizar la acción): Peguapyse (Ustedes quieren sentarse
 Modo Totalitativo (acción completamente realizada): Pejapopa (Ustedes terminaron de hacerlo).
 Modo Frecuentativo (acción frecuente): Pejeimante (Ustedes siempre están/existen).
 Modo Intencional (intención no realizada): Pejerokymo'ã (Ustedes tuvieron la intención de bailar).
-Modo ReIterativo (acción repetida): Pejujey (Ustedes vienen de nuevo)"
+Modo ReIterativo (acción repetida): Pejujey (Ustedes vienen de nuevo)"	
+PERSON:1_SI_INC		
+PERSON:1_SI_EXC		
+ASPECT:-		
+TENSE:PAS_REC, TYPE:AFF		
+PERSON:1_SI, TENSE:FUT_SIM		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
