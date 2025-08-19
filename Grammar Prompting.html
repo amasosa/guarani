@@ -1,0 +1,33 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta http-equiv="X-UA-Compatible" content="ie=edge" />
+<title>Markmap</title>
+<style>
+* {
+  margin: 0;
+  padding: 0;
+}
+html {
+  font-family: ui-sans-serif, system-ui, sans-serif, 'Apple Color Emoji',
+    'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+}
+#mindmap {
+  display: block;
+  width: 100vw;
+  height: 100vh;
+}
+.markmap-dark {
+  background: #27272a;
+  color: white;
+}
+</style>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/markmap-toolbar@0.18.12/dist/style.css">
+</head>
+<body>
+<svg id="mindmap"></svg>
+<script src="https://cdn.jsdelivr.net/npm/d3@7.9.0/dist/d3.min.js"></script><script src="https://cdn.jsdelivr.net/npm/markmap-view@0.18.12/dist/browser/index.js"></script><script src="https://cdn.jsdelivr.net/npm/markmap-toolbar@0.18.12/dist/index.js"></script><script>(()=>{setTimeout(()=>{const{markmap:S,mm:Q}=window,$=new S.Toolbar;$.attach(Q);const I=$.render();I.setAttribute("style","position:absolute;bottom:20px;right:20px"),document.body.append(I)})})()</script><script>((l,U,M,R)=>{const N=l();window.mm=N.Markmap.create("svg#mindmap",(U||N.deriveOptions)(R),M),window.matchMedia("(prefers-color-scheme: dark)").matches&&document.documentElement.classList.add("markmap-dark")})(()=>window.markmap,null,{"content":"Grammar Prompting","children":[{"content":"\n<p data-lines=\"1,2\"><strong>Contexto</strong></p>","children":[{"content":"LLMs (uso de la lengua):","children":[{"content":"Generan texto fluido y natural (Res&#xfa;menes, traducciones o respuestas conversacionales)","children":[],"payload":{"tag":"li","lines":"3,4"}},{"content":"Realizan oraciones coherentes, largas y bien formadas.","children":[],"payload":{"tag":"li","lines":"4,5"}},{"content":"Priorizan el significado global lo que les permite la comprensi&#xf3;n general ((meaning-first).","children":[],"payload":{"tag":"li","lines":"5,6"}},{"content":"Funcionan muy bien en diferentes idiomas de alto recurso.","children":[],"payload":{"tag":"li","lines":"6,7"}}],"payload":{"tag":"li","lines":"2,7"}},{"content":"LLM y sus limitaciones","children":[{"content":"No realizan los juicios gramaticales expl&#xed;citos con eficiencia.","children":[],"payload":{"tag":"li","lines":"8,9"}},{"content":"No siempres identifcan correctamente la morfolog&#xed;a o concordancia de las partes de la oraci&#xf3;n (ej. singular/plural, tiempos verbales).","children":[],"payload":{"tag":"li","lines":"9,10"}},{"content":"Dificultad con los fen&#xf3;menos complejos de la gram&#xe1;tica","children":[],"payload":{"tag":"li","lines":"10,11"}}],"payload":{"tag":"li","lines":"7,11"}}],"payload":{"tag":"li","lines":"1,11"}},{"content":"\n<p data-lines=\"11,12\"><strong>Metodolog&#xed;a</strong></p>","children":[{"content":"Estrategia <em>Explain-then-Process</em>","children":[{"content":"Paso 1: El LLM genera una explicaci&#xf3;n metaling&#xfc;&#xed;stica sobre un paradigma.","children":[],"payload":{"tag":"li","lines":"13,14"}},{"content":"Paso 2: La Explicaci&#xf3;n se usa como contexto en modelo objetivo (LLM o SLM).","children":[],"payload":{"tag":"li","lines":"14,15"}}],"payload":{"tag":"li","lines":"12,15"}},{"content":"Instruction Templates","children":[{"content":"GPb (<em>beginner</em>): explicaciones simples y pr&#xe1;cticas.","children":[],"payload":{"tag":"li","lines":"16,17"}},{"content":"GPx (<em>expert</em>): explicaciones t&#xe9;cnicas y con jerga ling&#xfc;&#xed;stica.","children":[],"payload":{"tag":"li","lines":"17,18"}},{"content":"Incluyen nombre del paradigma y pares m&#xed;nimos, evitando oraciones completas.","children":[],"payload":{"tag":"li","lines":"18,19"}}],"payload":{"tag":"li","lines":"15,19"}},{"content":"Datasets de evaluaci&#xf3;n","children":[{"content":"BLiMP (ingl&#xe9;s)","children":[],"payload":{"tag":"li","lines":"20,21"}},{"content":"SLING (chino)","children":[],"payload":{"tag":"li","lines":"21,22"}},{"content":"RuBLiMP (ruso)","children":[],"payload":{"tag":"li","lines":"22,24"}}],"payload":{"tag":"li","lines":"19,24"}}],"payload":{"tag":"li","lines":"11,24"}},{"content":"\n<p data-lines=\"24,25\"><strong>Resultados</strong></p>","children":[{"content":"Grandes mejoras en SLMs &#x2192; reducen la brecha con LLMs hasta un 56%.","children":[],"payload":{"tag":"li","lines":"25,26"}},{"content":"Fen&#xf3;menos &#x201c;f&#xe1;ciles&#x201d; (NPIs, aspecto, preguntas alternativas) &#x2192; casi 100% de accuracy.","children":[],"payload":{"tag":"li","lines":"26,27"}},{"content":"Fen&#xf3;menos &#x201c;dif&#xed;ciles&#x201d; (islas sint&#xe1;cticas, clasificadores, wh-fronting) &#x2192; mejoras menores pero consistentes.","children":[],"payload":{"tag":"li","lines":"27,28"}},{"content":"GPb super&#xf3; a GPx &#x2192; explicaciones simples son m&#xe1;s efectivas que t&#xe9;cnicas.","children":[],"payload":{"tag":"li","lines":"28,30"}}],"payload":{"tag":"li","lines":"24,30"}},{"content":"\n<p data-lines=\"30,31\"><strong>Limitaciones y Futuro</strong></p>","children":[{"content":"Solo se evalu&#xf3; en lenguas de <strong>alto recurso</strong> (ingl&#xe9;s, chino, ruso).","children":[],"payload":{"tag":"li","lines":"31,32"}},{"content":"Falta probar en lenguas de <strong>bajo recurso</strong> (ej. guaran&#xed;, quechua).","children":[],"payload":{"tag":"li","lines":"32,33"}},{"content":"Posibles mejoras:","children":[{"content":"Mejor parsing.","children":[],"payload":{"tag":"li","lines":"34,35"}},{"content":"Modelos con razonamiento m&#xe1;s robusto.","children":[],"payload":{"tag":"li","lines":"35,36"}},{"content":"Inclusi&#xf3;n de ejemplos ilustrativos en algunos casos.","children":[],"payload":{"tag":"li","lines":"36,37"}}],"payload":{"tag":"li","lines":"33,37"}}],"payload":{"tag":"li","lines":"30,37"}}],"payload":{"tag":"h1","lines":"0,1"}},null)</script>
+</body>
+</html>
