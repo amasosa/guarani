@@ -1,0 +1,531 @@
+ID	Source	Change	Target
+ID01	Ha'e ombojerékuri umi ao	PERSON:2_SI	Nde rembojere umi ao
+ID02	Ha'e ombojerékuri umi ao	TYPE:NEG	Ha’e ndombojeréi umi ao
+ID03	Ha'e ombojerékuri umi ao	ASPECT:IPFV	Ha’e ombojerehína umi ao
+ID04	Umi chokokue ombotýkuri pende rape	TYPE:NEG	Umi chokokue nombotýikuri pende rape
+ID05	Umi chokokue ombotýkuri pende rape	ASPECT:IPFV	Umi chokokue ombotyhína pende rape
+ID06	Umi chokokue ombotýkuri pende rape	PERSON:3_SI	Ha’e ombotýkuri pende rape
+ID07	Umi chokokue ombotýkuri pende rape	TENSE:FUT_SIM	Umi chokokue ombotýta pende rape
+ID08	Umi chokokue ombotýkuri pende rape	TENSE:PAS_PLU	Umi chokokue ombotyva’ekue pende rape
+ID09	Umi chokokue ombotýkuri pende rape	TENSE:PRE_SIM	Umi chokokue omboty pende rape
+ID10	Pe? ndapejapóimi óga yvate	PERSON:1_PL_INC	Ñande ndajajapói óga yvate
+ID11	Pe? ndapejapóimi óga yvate	PERSON:1_PL_EXC	Ore ndorojapói óga yvate
+ID12	Pe? ndapejapóimi óga yvate	TENSE:PAS_REC	Pe? pejapókuri óga yvate
+ID13	Pe? ndapejapóimi óga yvate	TENSE:PRE_SIM	Pe? pejapo óga yvate
+ID14	Pe? ndapejapóimi óga yvate	TYPE:AFF	Pe? ndapejapóikuri óga yvate
+ID15	Pe? ndapejapóimi óga yvate	PERSON:3_PL	Ha’ekuéra ndojapóikuri óga yvate
+ID16	Pe? ndapejapóimi óga yvate	PERSON:2_SI	Nde nderejapóikuri óga yvate
+ID17	Ku karai ijyvatéva	TENSE:FUT_SIM	Ku karai ijyvatétava
+ID18	Ku karai ijyvatéva	TYPE:NEG	Ku karai ndaijyvatéiva
+ID19	Ku karai ijyvatéva	ASPECT:IPFV	Ku karai ijyvatevahína
+ID20	Umi mbói oñorãirõ	ASPECT:IPFV	Umi mbói oñorãirõhína
+ID21	Umi mbói oñorãirõ	ASPECT:INM	Umi mbói oñorãirõhikóni
+ID22	Umi mbói oñorãirõ	PERSON:3_PL	Ha'ekuéra oñorãirõ
+ID23	Umi mbói oñorãirõ	TENSE:PAS_IMP	Umi mbói oñorãirõmi
+ID24	Umi mbói oñorãirõ	TENSE:FUT_SIM	Umi mbói oñorãirõta
+ID25	Umi mbói oñorãirõ	TYPE:NEG	Umi mbói noñorãirõmo'ãi
+ID26	Temirendukuéra omongakuaa	PERSON:3_SI	Ha’e omongakuaa
+ID27	Temirendukuéra omongakuaa	TENSE:FUT_SIM	Temirendukuéra omongakuaáta
+ID28	Temirendukuéra omongakuaa	TYPE:NEG	Temirendukuéra nomongakuaái
+ID29	Temirendukuéra omongakuaa	ASPECT:IPFV	Temirendukuéra omongakuaahína
+ID30	Temirendukuéra omongakuaa	TENSE:PAS_IMP	Temirendukuéra omongakuaámi
+ID31	Pohãnohára ikatupyry	TENSE:PRE_SIM	Pohãnohára ikatupyry
+ID32	Pohãnohára ikatupyry	TYPE:AFF	Pohãnohára ikatupyry
+ID33	Pohãnohára ikatupyry	TENSE:PAS_REC	Pohãnohára ikatupyrýkuri
+ID34	Pohãnohára ikatupyry	PERSON:3_PL	Ha'ekuéra ikatupyry
+ID35	Pohãnohára ikatupyry	TENSE:PAS_PLU	Pohãnohára ikatupyryva'ekue
+ID36	Haa'e ojarákuri y	TYPE:NEG	Ha’e ndojaráikuri y
+ID37	Haa'e ojarákuri y	PERSON:2_SI	Nde rejarákuri y
+ID38	Haa'e ojarákuri y	PERSON:1_SI	Che ajarákuri y
+ID39	Haa'e ojarákuri y	TENSE:FUT_SIM	Ha’e ojaráta y
+ID40	Haa'e ojarákuri y	ASPECT:IPFV	Ha’e ojarahína y
+ID41	Chéngo ndaikuaái upévape.	TYPE:AFF	Chéngo ndaikuaái upévape.
+ID42	Chéngo ndaikuaái upévape.	TENSE:PAS_REC	Chéngo ndaikuaái upévape.
+ID43	Chéngo ndaikuaái upévape.	PERSON:2_SI	Chéngo ndaikuaái upévape.
+ID44	Ha'ekuéra naiñemoñaréikuri	TYPE:AFF	Ha’ekuéra iñemoñarékuri
+ID45	Ha'ekuéra naiñemoñaréikuri	TENSE:FUT_SIM	Ha’ekuéra iñemoñaréta
+ID46	Ha'ekuéra naiñemoñaréikuri	PERSON:1_PL_INC	Ñande ñaneñemoñarékuri
+ID47	Ha'ekuéra naiñemoñaréikuri	PERSON:1_PL_EXC	Ore oreñemoñarékuri
+ID48	Ha'ekuéra naiñemoñaréikuri	PERSON:2_PL	Pe? peñemoñarékuri
+ID49	Ha'ekuéra naiñemoñaréikuri	TENSE:PRE_SIM	Ha’ekuéra iñemoñare
+ID50	Apurahéikuri	TYPE:NEG	Ndapurahéirikuri
+ID51	Apurahéikuri	ASPECT:IPFV	Apuraheihína
+ID52	Apurahéikuri	TENSE:PAS_PLU	Apuraheiva'ekue
+ID53	Apurahéikuri	TENSE:FUT_SIM	Apurahéita
+ID54	Apurahéikuri	PERSON:3_PL	Ha'ekuéra opurahéikuri
+ID55	He'i ka'i ruvicha ta'yrakuérape	PERSON:1_SI	Ha’e  ta’yrakuérape
+ID56	He'i ka'i ruvicha ta'yrakuérape	PERSON:2_SI	Nde ere ta’yrakuérape
+ID57	He'i ka'i ruvicha ta'yrakuérape	TYPE:NEG	Nde'íri ka’i ruvicha ta’yrakuérape
+ID58	Che namombe'úi	TENSE:PRE_SIM	Che namombe’úi
+ID59	Che namombe'úi	TYPE:AFF	Che amombe’u
+ID60	Che namombe'úi	TENSE:PAS_IMP	Che namombe’úimi
+ID61	Che namombe'úi	PERSON:2_SI	Nde neremombe’úi
+ID62	Che namombe'úi	PERSON:1_PL_EXC	Ñande nañamombe’úi
+ID63	Ojura pete? vaka	TYPE:AFF	Ojura pete? vaka
+ID64	Ojura pete? vaka	TENSE:PAS_REC	Ojurákuri pete? vaka
+ID65	Ojura pete? vaka	TENSE:PAS_IMP	Ojurámi pete? vaka
+ID66	Ojura pete? vaka	TENSE:PAS_PLU	Ojurava’ekue pete? vaka
+ID67	Ojura pete? vaka	TENSE:PRE_SIM	Ojura pete? vaka
+ID68	Che ajavy'imi heta mba'épe	TYPE:NEG	Che ndajavy'íri heta mba’épe
+ID69	Che ajavy'imi heta mba'épe	ASPECT:IPFV	Che ajavy’i'aína heta mba’épe
+ID70	Che ajavy'imi heta mba'épe	TENSE:FUT_SIM	Che ajavy'imíta heta mba’épe
+ID71	Che ajavy'imi heta mba'épe	TENSE:PRE_SIM	Che ajavy'imi heta mba’épe
+ID72	Che ajavy'imi heta mba'épe	PERSON:2_PL	Pe? pejavy'imi heta mba’épe
+ID75	Ore ndoroikuave’?i umi tembi’ukuéra pytagua	TYPE:AFF	Ore roikuave’? umi tembi’ukuéra pytagua
+ID76	Ore ndoroikuave’?i umi tembi’ukuéra pytagua	ASPECT:IPFV	Ore noroikuave’?ihína umi tembi’ukuéra pytagua
+ID77	Ore ndoroikuave’?i umi tembi’ukuéra pytagua	ASPECT:INM	Ore noroikuave’?ihikóni umi tembi’ukuéra pytagua
+ID78	Ore ndoroikuave’?i umi tembi’ukuéra pytagua	TENSE:PAS_IMP	Ore noroikuave’?imi umi tembi’ukuéra pytagua
+ID79	Ore ndoroikuave’?i umi tembi’ukuéra pytagua	PERSON:1_PL_INC	Ñande nañaikuave’?i umi tembi’ukuéra pytagua
+ID80	Ore ndoroikuave’?i umi tembi’ukuéra pytagua	PERSON:1_SI	Che naikuave’?i umi tembi’ukuéra pytagua
+ID81	Ore ndoroikuave’?i umi tembi’ukuéra pytagua	PERSON:2_PL	Pe? ndaikuave’?i umi tembi’ukuéra pytagua
+ID83	Nde reñembosaraireína	TYPE:NEG	Nde nereñembosaráiri
+ID84	Nde reñembosaraireína	PERSON:1_SI	Che añembosarai'aína
+ID85	Nde reñembosaraireína	ASPECT:INM	Nde reñembosaraireikóni
+ID86	Nde reñembosaraireína	TENSE:FUT_SIM	Nde reñembosaráita
+ID87	Nde reñembosaraireína	TENSE:PAS_REC	Nde reñembosaráikuri
+ID88	Nde reñembosaraireína	PERSON:3_PL	Ha'ekuéra oñembosaraihína
+ID89	Amo oñemúva osapukáikuri	TYPE:NEG	Amo oñemúva ndosapukáirikuri
+ID90	Amo oñemúva osapukáikuri	PERSON:3_PL	Ha'e osapukáikuri
+ID91	Amo oñemúva osapukáikuri	TENSE:FUT_SIM	Amo oñemúva osapukáta
+ID92	Amo oñemúva osapukáikuri	ASPECT:IPFV	Amo oñemúva osapukaihína
+ID93	Amo oñemúva osapukáikuri	TENSE:PAS_PLU	Amo oñemúva osapukaiva’ekue
+ID94	Jaguarete katu itáicha okirir?.	PERSON:1_SI	Che itáicha akirir?
+ID95	Jaguarete katu itáicha okirir?.	PERSON:2_SI	Nde itáicha rekirir?
+ID96	Jaguarete katu itáicha okirir?.	TYPE:NEG	Jaguarete katu itáicha nokirir?ri
+ID97	Jaguarete katu itáicha okirir?.	TENSE:FUT_SIM	Jaguarete katu itáicha okiriríta
+ID98	Pakova roguépe omo’â hembi’ukuéra.	TYPE:NEG	Pakova roguépe che namo’ãi che rembi’ukuéra
+ID99	Pakova roguépe omo’â hembi’ukuéra.	PERSON:2_PL	Pakova roguépe pe? pemo’ã pene rembi’ukuéra
+ID100	Pakova roguépe omo’â hembi’ukuéra.	PERSON:2_SI	Pakova roguépe nde remo’ã pene rembi’ukuéra
+ID101	Pakova roguépe omo’â hembi’ukuéra.	PERSON:1_SI	Pakova roguépe che namo’ãi pene hembi’ukuéra
+ID102	Ha'e ojupíkuri	PERSON:1_SI	Che ajupíkuri
+ID103	Ha'e ojupíkuri	PERSON:1_PL_INC	Ñande jajupíkuri
+ID104	Ha'e ojupíkuri	ASPECT:IPFV	Ha'e ojupihína
+ID105	Ha'e ojupíkuri	ASPECT:INM	Ha'e ojupihikóni
+ID106	Ha'e ojupíkuri	TENSE:FUT_SIM	Ha'e ojupíta
+ID107	Ha'e ojupíkuri	PERSON:2_SI	Nde rejupíkuri
+ID108	Ha'e ojupíkuri	TYPE:NEG	Ha'e ndojupíri
+ID109	Che mba’éma ko ykua	PERSON:2_SI	Ne mba’éma ko ykua
+ID112	Che mba’éma ko ykua	TYPE:NEG	Nachemba’éi ko ykua
+ID113	Che mba’éma ko ykua	TENSE:FUT_SIM	Che mba’éta ko ykua
+ID114	Ha'e nembojarúta	TYPE:AFF	Ha’e nembojarúta
+ID115	Ha'e nembojarúta	PERSON:2_SI	Nde rembojarúta
+ID116	Ha'e nembojarúta	TENSE:PAS_REC	Ha’e nembojarúkuri
+ID117	Ha'e nembojarúta	ASPECT:IPFV	Ha’e nembojaruhína
+ID118	Ha'e nembojarúta	PERSON:1_SI	Che rombojarúta
+ID119	Ha’e oguapy	PERSON:3_PL	Ha’ekuéra oguapy
+ID120	Ha’e oguapy	TYPE:NEG	Ha’e ndoguapýi
+ID121	Ha’e oguapy	PERSON:1_SI	Che aguapy
+ID122	Ha’e oguapy	PERSON:2_SI	Nde reguapy
+ID123	Ha’e oguapy	PERSON:2_PL	Pe? peguapy
+ID124	Ha’e oguapy	TENSE:FUT_SIM	Ha’e oguapýta
+ID125	Ha’e oguapy	TENSE:PAS_PLU	Ha’e oguapyva'ekue
+ID126	Ha’e oguapy	TENSE:PAS_REC	Ha’e oguapýkuri
+ID127	Nde neremoheñóiri	TYPE:AFF	Nde remoheñói
+ID129	Nde neremoheñóiri	PERSON:1_PL_INC	Ñande nañamoheñóiri
+ID130	Nde neremoheñóiri	PERSON:3_PL	Ha'ekuéra nomoheñóiri
+ID131	Ha'e nombotujúimi che ogyke-Ha'e nombyaírimi che ogyke	TYPE:AFF	Ha'e ombotujúmi che ogyke-Ha'e ombyaími che ogyke
+ID132	Ha'e nombotujúimi che ogyke-Ha'e nombyaírimi che ogyke	TENSE:PAS_REC	Ha'e nombotujúikuri che ogyke-Ha'e nombyaírikuri che ogyke
+ID133	Ha'e nombotujúimi che ogyke-Ha'e nombyaírimi che ogyke	PERSON:2_SI	Nde nerembotujúimi che ogyke-Nde rembyaírimi che ogyke
+ID134	Ha'e nombotujámi che ogyke-Ha'e nombyaírimi che ogyke	PERSON:1_PL_INC	Ñande nañambotujúimi che ogyke-Ñande nañambyaírimi che ogyke
+ID135	Ha'e nombotujúimi che ogyke-Ha'e nombyaírimi che ogyke	TENSE:FUT_SIM	Ha'e nombotujumo'ãi che ogyke-Ha'e nombyaimo'ãi che ogyke
+ID136	Ha'e nombotujúimi che ogyke-Ha'e nombyaírimi che ogyke	TENSE:PAS_PLU	Ha'e nombotujúiva'ekue che ogyke-Ha'e nombyaíriva'ekue che ogyke
+ID138	Ore roikómi	PERSON:2_SI	Nde reikómi
+ID139	Ore roikómi	TYPE:NEG	Nde ndereikóimi
+ID140	Ore roikómi	TENSE:PRE_SIM	Ore roiko
+ID141	Ore roikómi	PERSON:1_SI	Che aikómi
+ID142	Oipuru hikuái ka’a ha ho’u terere.	PERSON:1_PL_INC	Ñande jaiporú ka'a ha ja'u terere
+ID143	Oipuru hikuái ka’a ha ho’u terere.	TYPE:NEG	Ha'ekuéra ndoiporúi ka'a ha ndo'úi terere
+ID144	Oipuru hikuái ka’a ha ho’u terere.	PERSON:2_SI	Nde reiporu ka'a ha re'u terere
+ID145	Oipuru hikuái ka’a ha ho’u terere.	TENSE:FUT_SIM	Ha'ekuéra oiporúta ka'a ha ho'úta  terere
+ID146	Ko mombe'upy ohendukákuri chéve che ru	TYPE:NEG	Ko mombe'upy nohendukáikuri chéve che ru
+ID147	Ko mombe'upy ohendukákuri chéve che ru	PERSON:2_SI	Ko mombe'upy ohendukákuri ndéve che ru
+ID148	Ko mombe'upy ohendukákuri chéve che ru	PERSON:2_PL	Ko mombe'upy ohendukákuri pe?me  che ru
+ID149	Ko mombe'upy ohendukákuri chéve che ru	TENSE:FUT_SIM	Ko mombe'upy ohendukáta chéve che ru
+ID150	Ko mombe'upy ohendukákuri chéve che ru	TENSE:PRE_SIM	Ko mombe'upy ohenduka chéve che ru
+ID151	Upérõ (che) añani'aínakuri	TENSE:PRE_SIM	Upérõ (che) añani
+ID152	Upérõ (che) añani'aínakuri	TENSE:FUT_SIM	Upérõ (che) añaníta
+ID153	Upérõ (che) añani'aínakuri	TENSE:PAS_PLU	Upérõ (che) añaniva'ekue
+ID154	Upérõ (che) añani'aínakuri	PERSON:2_SI	Upérõ (nde) reñanireínakuri
+ID155	Upérõ (che) añani'aínakuri	PERSON:1_PL_INC	Upérõ (ore) roñanroínakuri
+ID156	Oik?mbymi hikuái	TENSE:PAS_REC	Oik?mbýkuri hikuái
+ID157	Oik?mbymi hikuái	TENSE:FUT_SIM	Oik?mbýta hikuái
+ID158	Oik?mbymi hikuái	PERSON:1_PL_INC	Ñaik?mbými
+ID159	Oik?mbymi hikuái	PERSON:1_SI	Che aik?mbými
+ID160	Oik?mbymi hikuái	TYPE:NEG	Noik?mbýrimi hikuái
+ID161	Nde nderejapói	TYPE:AFF	Nde rejapo
+ID163	Nde nderejapói	PERSON:1_PL_INC	Ñande ndajajapóikuri
+ID164	Nde nderejapói	PERSON:3_PL	Ha'ekuéra ndojapóikuri
+ID165	Ore rembiapo rojapopa	TENSE:PRE_SIM	Ore rembiapo rojapopa
+ID166	Ore rembiapo rojapopa	PERSON:3_PL	Ha'ekuéra ojapopa hembiapo
+ID167	Ore rembiapo rojapopa	TYPE:NEG	Ore rembiapo ndorojapopái
+ID168	Ore rembiapo rojapopa	TENSE:FUT_SIM	Ore rembiapo rojapopáta
+ID169	Ore rembiapo rojapopa	TENSE:PAS_PLU	Ore rembiapo rojapopava'ekue
+ID170	Cherasy	TENSE:PAS_REC	Cherasýkuri
+ID171	Cherasy	TENSE:PAS_PLU	Cherasyva'ekue
+ID172	Cherasy	TYPE:NEG	Ndacherasýi
+ID173	Cherasy	ASPECT:IPFV	Cherasy'aína
+ID174	Cherasy	PERSON:2_SI	Nderasy
+ID175	Cherasy	PERSON:3_SI	Hasy
+ID176	Cherasy	PERSON:1_PL_INC	Ñanderasy
+ID177	Cherasy	PERSON:1_PL_EXC	Orerasy
+ID178	Cherasy	PERSON:2_PL	Penderasy
+ID179	Ha'ekuéra oúmi	PERSON:3_SI	Ha'e oúmi
+ID180	Ha'ekuéra oúmi	TYPE:NEG	Ha'ekuéra ndoúimi
+ID181	Ha'ekuéra oúmi	ASPECT:INM	Ha'ekuéra ouhikóni
+ID182	Ha'ekuéra oúmi	PERSON:2_PL	Pe? pejúmi
+ID183	Ha'ekuéra oúmi	PERSON:1_PL_EXC	Ore rojúmi
+ID184	Ha'ekuéra oúmi	TENSE:PAS_PLU	Ha'ekuéra oúva'ekue
+ID185	Ha'ekuéra oúmi	TENSE:FUT_SIM	Ha'ekuéra oúta
+ID186	Ha'ekuéra oúmi	TENSE:PRE_SIM	Ha'ekuéra ou 
+ID187	Nde regueroviáta	PERSON:1_SI	Che agueroviáta
+ID188	Nde regueroviáta	PERSON:3_PL	Ha'ekuéra ogueroviáta
+ID189	Nde regueroviáta	PERSON:2_PL	Pe? pegueroviáta
+ID190	Nde regueroviáta	TENSE:PAS_IMP	Nde agueroviámi
+ID191	Nde regueroviáta	TENSE:PAS_REC	Nde regueroviákuri
+ID192	Nde regueroviáta	PERSON:1_PL_EXC	Ore regueroviáta
+ID193	Nde regueroviáta	TENSE:PRE_SIM	Nde reguerovia
+ID194	Nde regueroviáta	TYPE:NEG	Che nderegueroviái
+ID195	Ha’ekuéra omano	TENSE:FUT_SIM	Ha'ekuéra omanóta
+ID196	Ha’ekuéra omano	TYPE:NEG	Ha'ekuéra nomanói
+ID197	Ha’ekuéra omano	ASPECT:IPFV	Ha'ekuéra omanohína
+ID198	Ha’ekuéra omano	TENSE:PAS_REC	Ha'ekuéra omanókuri
+ID199	Ha’ekuéra omano	PERSON:2_PL	Pe? pemano
+ID200	Ha’ekuéra omano	PERSON:1_SI	Che amano
+ID201	Ha’ekuéra omano	PERSON:1_PL_EXC	Ore romano
+ID202	Ha’ekuéra oguah?mi	TYPE:NEG	Ha'ekuérapa nog?uah?imi
+ID203	Ha’ekuéra oguah?mi	PERSON:3_SI	Ha'e og?uah?mi
+ID204	Ha’ekuéra oguah?mi	PERSON:1_PL_INC	Ñande ñag?uah?mi
+ID205	Ha’ekuéra oguah?mi	PERSON:2_SI	Nde reg?uah?mi
+ID206	Ha’ekuéra oguah?mi	TENSE:PRE_SIM	Ha'ekuéra og?uah?
+ID207	Ha’ekuéra oguah?mi	TENSE:FUT_SIM	Ha'ekuéra og?uah?ta
+ID208	Ha’ekuéra oguah?mi	TENSE:PAS_REC	Ha'ekuéra og?uah?kuri
+ID209	Ñande ñambohape ñande rekove	PERSON:1_PL_EXC	Ore rombohape ore rekove
+ID210	Ñande ñambohape ñande rekove	TENSE:PRE_SIM	Ñande ñambohape ñande rekove
+ID211	Ñande ñambohape ñande rekove	TYPE:NEG	Ñande nañambohapéi ñande rekove
+ID212	Ñande ñambohape ñande rekove	TENSE:PAS_IMP	Ñande ñambohapémi ñande rekove
+ID213	Ñande ñambohape ñande rekove	ASPECT:IPFV	Ñande ñambohapeñaína ñande rekove
+ID214	Ñande ñambohape ñande rekove	PERSON:3_SI	Ha’e ombohape hekove
+ID215	Ha'ekuéra nomyanyh?mo'ãi	PERSON:2_SI	Nde neremyanyh?mo’ãi
+ID216	Ha'ekuéra nomyanyh?mo'ãi	PERSON:1_PL_EXC	Ore Noromyanyh?mo’ãi
+ID217	Ha'ekuéra nomyanyh?mo'ãi	TENSE:PAS_PLU	Ha’ekuéra nomyanyh?iva’ekue
+ID218	Ha'ekuéra nomyanyh?mo'ãi	TYPE:AFF	Ha’ekuéra omyanyh?ta
+ID219	Ha'ekuéra nomyanyh?mo'ãi	ASPECT:IPFV	Ha’ekuéra omyanyh?hína
+ID220	Ha'ekuéra nomyanyh?mo'ãi	TENSE:PRE_SIM	Ha’ekuéra omyanyh?
+ID221	Upéguintema ojeraha chupe tasyópe	PERSON:1_SI	Upéguintema araha chupe tasyópe
+ID222	Upéguintema ojeraha chupe tasyópe	TENSE:FUT_SIM	Upéguintema ojeraháta chupe tasyópe
+ID223	Upéguintema ojeraha chupe tasyópe	TENSE:PAS_PLU	Upéguintema ojerahava’ekue chupe tasyópe
+ID224	Upéguintema ojeraha chupe tasyópe	ASPECT:IPFV	Upéguintema ojerahahína chupe tasyópe
+ID225	Upéguintema ojeraha chupe tasyópe	PERSON:2_PL	Upéguintema peraha chupe tasyópe
+ID226	Upéguintema ojeraha chupe tasyópe	TYPE:NEG	Upéguintema ndojerahái chupe tasyópe
+ID227	Upe pyhare mbohapyhápe oñembo’e hikuái	PERSON:3_SI	Upe pyhare mbohapyhápe oñembo’e 
+ID228	Upe pyhare mbohapyhápe oñembo’e hikuái	PERSON:2_PL	Upe pyhare mbohapyhápe peñembo’e
+ID229	Upe pyhare mbohapyhápe oñembo’e hikuái	PERSON:2_SI	Upe pyhare mbohapyhápe reñembo’e
+ID230	Upe pyhare mbohapyhápe oñembo’e hikuái	TENSE:FUT_SIM	Upe pyhare mbohapyhápe oñembo’éta hikuái
+ID231	Upe pyhare mbohapyhápe oñembo’e hikuái	ASPECT:IPFV	Upe pyhare mbohapyhápe oñembo’ehína hikuái
+ID232	Upe pyhare mbohapyhápe oñembo’e hikuái	PERSON:1_SI	Upe pyhare mbohapyhápe añembo’e
+ID233	Upe pyhare mbohapyhápe oñembo’e hikuái	TYPE:NEG	Upe pyhare mbohapyhápe noñembo’éi hikuái
+ID234	Pe? pekakuaákuri	TYPE:NEG	Pe? ndapekakuaáikuri
+ID235	Pe? pekakuaákuri	PERSON:2_SI	Nde rekakuaákuri
+ID236	Pe? pekakuaákuri	PERSON:3_SI	Ha’e okakuaákuri
+ID237	Pe? pekakuaákuri	PERSON:1_PL_EXC	Ore rokakuaákuri
+ID238	Pe? pekakuaákuri	PERSON:1_SI	Che akakuaákuri
+ID239	Pe? pekakuaákuri	TENSE:FUT_SIM	Pe? pekakuaáta
+ID240	Pe? pekakuaákuri	TENSE:PRE_SIM	Pe? pekakuaákuri
+ID241	Pe? pekakuaákuri	ASPECT:IPFV	Pe? pekakuaahína
+ID242	Ko’ag?aite ndaikatúi ahecha ndéve	TYPE:AFF	Ko’ag?aite ikatu ahecha ndéve
+ID243	Ko’ag?aite ndaikatúi ahecha ndéve	PERSON:1_PL_INC	Ko’ag?aite ndaikatúi jahecha ndéve
+ID244	Ko’ag?aite ndaikatúi ahecha ndéve	PERSON:3_PL	Ko’ag?aite ndaikatúi ohecha ndéve hikuái
+ID245	Ko’ag?aite ndaikatúi ahecha ndéve	PERSON:1_PL_EXC	Ko’ag?aite ndaikatúi rohecha ndéve
+ID246	Ko’ag?aite ndaikatúi ahecha ndéve	TENSE:FUT_SIM	Ko’ag?aite ndaikatumo'ãi ahecha ndéve
+ID247	Ko’ag?aite ndaikatúi ahecha ndéve	TENSE:PAS_REC	Ko’ag?aite ndaikatúikuri ahecha ndéve
+ID248	Nde reimo’ãta	PERSON:1_SI	Nde aimo’ãta
+ID249	Nde reimo’ãta	PERSON:3_PL	Ha'e oimo’ãta
+ID250	Nde reimo’ãta	PERSON:2_PL	Pe? peimo’ãta
+ID251	Nde reimo’ãta	TENSE:PAS_IMP	Nde reimo’ãmi
+ID252	Nde reimo’ãta	TENSE:PAS_REC	Nde reimo’ãkuri
+ID253	Nde reimo’ãta	PERSON:1_PL_EXC	Ore roimo’ãta
+ID254	Nde reimo’ãta	TENSE:PRE_SIM	Ore roimo’ã
+ID255	Nde reimo’ãta	TYPE:NEG	Ore noroimo’ãi
+ID256	Nde reroviáta	PERSON:1_SI	Che aroviáta
+ID257	Nde reroviáta	PERSON:3_PL	Ha’ekuéra oroviáta
+ID258	Nde reroviáta	PERSON:2_PL	Pe? peroviáta
+ID259	Nde reroviáta	TENSE:PAS_IMP	Nde aroviava’ekue
+ID260	Nde reroviáta	TENSE:PAS_REC	Nde reroviákuri
+ID261	Nde reroviáta	PERSON:1_PL_EXC	Ore roroviákuri
+ID262	Nde reroviáta	TENSE:PRE_SIM	Nde rerovia
+ID263	Nde reroviáta	TYPE:NEG	Nde ndereroviái
+ID264	Pe? pehasáta	PERSON:2_SI	Nde rehasáta
+ID265	Pe? pehasáta	TYPE:NEG	Pe? ndapehasái
+ID266	Pe? pehasáta	PERSON:1_SI	Pe? pehasáta
+ID267	Pe? pehasáta	PERSON:1_PL_INC	Ñande jahasáta
+ID268	Pe? pehasáta	TENSE:PAS_REC	Pe? pehasákuri
+ID269	Pe? pehasáta	TENSE:PRE_SIM	Pe? pehasa
+ID270	Pe? pehasáta	ASPECT:IPFV	Pe? pehasahína
+ID271	Pe? pehasáta	PERSON:3_SI	Ha’e ohasáta
+ID272	Ha’ekuéra opóta	TENSE:PAS_PLU	Ha’ekuéra opova’ekue
+ID273	Ha’ekuéra opóta	TENSE:PRE_SIM	Ha’ekuéra opo
+ID274	Ha’ekuéra opóta	TYPE:NEG	Ha’ekuéra ndopói
+ID275	Ha’ekuéra opóta	ASPECT:IPFV	Ha’ekuéra opohína
+ID276	Ha’ekuéra opóta	PERSON:2_PL	Pe? pepóta
+ID277	Ha’ekuéra opóta	PERSON:1_PL_INC	Ñande japóta
+ID278	Umi ho'uva ka'avojehe'a ndaikyramo'ãi	TYPE:AFF	Umi ho’úva ka’avojehe’a ndaikyramo'ãi
+ID279	Umi ho'uva ka'avojehe'a ndaikyramo'ãi	TENSE:PAS_PLU	Umi ho'uva'ekue ka’avojehe’a ndaikyramo'ãi
+ID280	Umi ho'uva ka'avojehe'a ndaikyramo'ãi	TENSE:PAS_REC	Umi ho’úvakuri ka’avojehe’a ndaikyramo'ãi
+ID281	Umi ho'uva ka'avojehe'a ndaikyramo'ãi	TENSE:PRE_SIM	Umi ho’úva ka’avojehe’a ndaikyramo'ãi
+ID282	Umi ho'uva ka'avojehe'a ndaikyramo'ãi	PERSON:3_SI	Ha’e ho’úva ka’avojehe’a ndaikyramo'ãi
+ID283	Nde nerembyaírikuri	PERSON:2_PL	Pe? napembyaírikuri
+ID284	Nde nerembyaírikuri	PERSON:1_SI	Che nambyaírikuri
+ID285	Nde nerembyaírikuri	PERSON:3_SI	Ha’e nombyaírikuri
+ID286	Nde nerembyaírikuri	TYPE:AFF	Nde rembyaíkuri
+ID287	Nde nerembyaírikuri	TENSE:FUT_SIM	Nde rembyaíta
+ID288	Nde nerembyaírikuri	TENSE:PRE_SIM	Nde nerembyaíri
+ID289	Nde ru no?rikuri	PERSON:3_PL	Ha'ekuéra no?rikuri
+ID290	Nde ru no?rikuri	TYPE:AFF	Nde ru o?kuri
+ID291	Nde ru no?rikuri	TENSE:FUT_SIM	Nde ru o?ta
+ID292	Nde ru no?rikuri	TENSE:PRE_SIM	Nde ru o?
+ID293	Nde ru no?rikuri	TENSE:PAS_IMP	Nde ru o?mi
+ID294	Nde ru no?rikuri	TENSE:PAS_PLU	Nde ru no?riva’ekue
+ID295	Ha'ekuéra oikyt?mi pende yvyrakuéra	TENSE:FUT_SIM	Ha’ekuéra oikyt?ta pende yvyrakuéra
+ID296	Ha'ekuéra oikyt?mi pende yvyrakuéra	TENSE:PRE_SIM	Ha’ekuéra oikyt? pende yvyrakuéra
+ID297	Ha'ekuéra oikyt?mi pende yvyrakuéra	PERSON:3_SI	Ha’e oikyt?mi pende yvyrakuéra
+ID298	Ha'ekuéra oikyt?mi pende yvyrakuéra	PERSON:1_PL_INC	Ñande ñaikyt?mi pende yvyrakuéra
+ID299	Ha'ekuéra oikyt?mi pende yvyrakuéra	PERSON:1_SI	Che aikyt?mi pende yvyrakuéra
+ID300	Ha'ekuéra oikyt?mi pende yvyrakuéra	TYPE:NEG	Ha’ekuéra noikyt?rimi pende yvyrakuéra
+ID301	Ha'ekuéra oikyt?mi pende yvyrakuéra	TENSE:PAS_REC	Ha’ekuéra oikyt?kuri pende yvyrakuéra
+ID302	Ha'ekuéra oikyt?mi pende yvyrakuéra	ASPECT:INM	Ha’ekuéra oikyt?hikóni pende yvyrakuéra
+ID303	Oñapyt? ikyha tatakua kótare	PERSON:1_SI	Che añapyt? ikyha tatakua kótare
+ID304	Oñapyt? ikyha tatakua kótare	PERSON:1_PL_INC	Ñande ñañapyt? ikyha tatakua kótare
+ID305	Oñapyt? ikyha tatakua kótare	TENSE:FUT_SIM	Ha'e oñapyt?ta ikyha tatakua kótare
+ID306	Oñapyt? ikyha tatakua kótare	PERSON:1_PL_EXC	Ore roñapyt? ikyha tatakua kótare
+ID307	Oñapyt? ikyha tatakua kótare	TYPE:NEG	Ha’e noñapyt?ri ikyha tatakua kótare
+ID308	Oñapyt? ikyha tatakua kótare	ASPECT:INM	Ha’e oñapyt?hikóni ikyha tatakua kótare
+ID309	Oñapyt? ikyha tatakua kótare	ASPECT:IPFV	Ha’e oñapyt?hína ikyha tatakua kótare
+ID310	Oñapyt? ikyha tatakua kótare	TENSE:PAS_IMP	Ha’e oñapyt?mi ikyha tatakua kótare
+ID311	Ha'e omyasãi avati	TENSE:PAS_REC	Ha’e omyasãikuri avati
+ID312	Ha'e omyasãi avati	TYPE:NEG	Ha’e nomyasãirikuri avati
+ID313	Ha'e omyasãi avati	ASPECT:INM	Ha’e omyasãihikóni avati
+ID314	Ha'e omyasãi avati	TENSE:FUT_SIM	Ha’e omyasãita avati
+ID315	Ha'e omyasãi avati	TENSE:PRE_SIM	Ha’e omyasãi avati
+ID316	Ha'e omyasãi avati	PERSON:2_PL	Pe? pemayasãi avati
+ID317	Ha'e omyasãi avati	PERSON:1_PL_INC	Ñande ñamyasãi avati
+ID318	Ha'e omyasãi avati	PERSON:1_SI	Che amyasãi avati
+ID319	Ko ñemit? opu'ã porãvéta	PERSON:3_PL	Ko ñemit? opu’ã porãvéta chupekuéra
+ID320	Ko ñemit? opu'ã porãvéta	TENSE:PAS_REC	Ko ñemit? opu’ãporãvétakuri 
+ID321	Ko ñemit? opu'ã porãvéta	ASPECT:IPFV	Ko ñemit? opu’ãporãvetahína
+ID322	Ko ñemit? opu'ã porãvéta	TENSE:PRE_SIM	Ko ñemit? opu’ã porãve
+ID323	Ko ñemit? opu'ã porãvéta	TENSE:PAS_PLU	Ko ñemit? opu’ãporãveva'ekue
+ID324	Ko ñemit? opu'ã porãvéta	TYPE:NEG	Ko ñemit? nopu’ãporãi
+ID325	Ha'e ombyasýta	TYPE:NEG	Ha’e norombyasymo'ãi
+ID326	Ha'e ombyasýta	ASPECT:IPFV	Ha’e orombyasyhína
+ID327	Ha'e ombyasýta	PERSON:1_SI	Che ambyasýta
+ID328	Ha'e ombyasýta	PERSON:2_SI	Ha’e ombyasy
+ID329	Ha'e ombyasýta	TENSE:PAS_REC	Ha’e ombyasýkuri
+ID330	Ha'e ombyasýta	TENSE:PRE_SIM	Che ambyasy 
+ID331	Ha'e ombyasýta	PERSON:2_PL	Pe? pembyasy
+ID332	Ipahaitépe Peru’i os? he’i	TYPE:NEG	Ipahaitépe Peru’i nos?i he’i
+ID333	Ipahaitépe Peru’i os? he’i	ASPECT:IPFV	Ipahaitépe Peru’i os?hína he’i
+ID334	Ipahaitépe Peru’i os? he’i	TENSE:FUT_SIM	Ipahaitépe Peru’i os?ta he’i
+ID335	Ipahaitépe Peru’i os? he’i	TENSE:PAS_PLU	Ipahaitépe Peru’i os?va’ekue he’i
+ID336	Ipahaitépe Peru’i os? he’i	TENSE:PAS_IMP	Ipahaitépe Peru’i os?kuri he’i
+ID337	Araka’eve jeko ndojehúi chupe ha itajyramíme mba’eve ivaíva.	PERSON:1_SI	Araka’eve jeko ndojehúi chéve ha che rajyramíme mba’eve ivaíva
+ID339	Araka’eve jeko ndojehúi chupe ha itajyramíme mba’eve ivaíva.	PERSON:2_PL	Araka’eve jeko ndojehúi pe?me ha pende rajyramíme mba’eve ivaíva
+ID342	Ñande vakapipopo okañýkuri	TYPE:NEG	Ñande vakapipopo nokañýi
+ID343	Ñande vakapipopo okañýkuri	TENSE:FUT_SIM	Ñande vakapipopo okañýta
+ID344	Ñande vakapipopo okañýkuri	PERSON:3_SI	Ivakapipopo okañy
+ID345	Ñande vakapipopo okañýkuri	TENSE:PAS_IMP	Ñande vakapipopo okañýkuri
+ID346	Ñande vakapipopo okañýkuri	TENSE:PRE_SIM	Ñande vakapipopo okañy 
+ID347	Ñande vakapipopo okañýkuri	ASPECT:IPFV	Ñande vakapipopo okañyhína
+ID348	Ñande vakapipopo okañýkuri	TENSE:PAS_PLU	Ñande vakapipopo okañyva'ekue
+ID349	Pirapire opa	PERSON:3_PL	Pirapire opa chugui
+ID350	Pirapire opa	TYPE:AFF	Pirapire opa
+ID351	Pirapire opa	TENSE:PRE_SIM	Pirapire opa
+ID352	Pirapire opa	TENSE:FUT_SIM	Pirapire opáta
+ID353	Pirapire opa	TENSE:PAS_PLU	Pirapire opava'ekue
+ID354	Pirapire opa	ASPECT:INM	Ako pirapire opahikóni
+ID355	Pirapire opa	ASPECT:IPFV	Ako pirapire opahína
+ID356	Péichantema opyta hikuái	PERSON:2_PL	Péichantema pe? pepyta
+ID357	Péichantema opyta hikuái	PERSON:1_SI	Péichantema apyta
+ID358	Péichantema opyta hikuái	TENSE:FUT_SIM	Péichantema opytáta hikuái
+ID359	Péichantema opyta hikuái	TYPE:NEG	Péichantema ndopytái hikuái
+ID360	Péichantema opyta hikuái	TENSE:PAS_REC	Péichantema opytákuri hikuái
+ID361	Kuña ikyre’?etéva voi opu’ã	PERSON:3_PL	Ha'ekuéra voi opu’ã 
+ID362	Kuña ikyre’?etéva voi opu’ã	TENSE:FUT_SIM	Kuña ikyre’?etéva voi opu'ãta
+ID363	Kuña ikyre’?etéva voi opu’ã	TENSE:PAS_REC	Kuña ikyre’?etéva voi opu’ãkuri 
+ID364	Kuña ikyre’?etéva voi opu’ã	ASPECT:INM	Kuña ikyre’?etéva voi opu’ãhikóni 
+ID365	Kuña ikyre’?etéva voi opu’ã	TYPE:NEG	Kuña ikyre’?etéva nopu’ãvoíri 
+ID366	Okyvérõnteke okyvehína	TYPE:NEG	Okyvérõnteke ndokyveihína
+ID367	Okyvérõnteke okyvehína	TENSE:FUT_SIM	Okyvérõnteke okyvéta
+ID368	Okyvérõnteke okyvehína	PERSON:3_PL	Okyvérõnteke okyvehína chupekuéra
+ID369	Okyvérõnteke okyvehína	TENSE:PAS_REC	Okyvérõnteke okyvékuri
+ID370	Okyvérõnteke okyvehína	ASPECT:INM	Okyvérõnteke okyvehikóni
+ID371	Okyvérõnteke okyvehína	TENSE:PAS_PLU	Okyvérõnteke okyveva’ekue
+ID372	Che aikotev? pirapire	TYPE:NEG	Che naikotev?i pirapire
+ID373	Che aikotev? pirapire	ASPECT:IPFV	Che aikotev?hína pirapire
+ID374	Che aikotev? pirapire	PERSON:1_PL_INC	Ñande ñaikotev? pirapire
+ID375	Che aikotev? pirapire	PERSON:2_SI	Nde reikotev? pirapire
+ID376	Che aikotev? pirapire	PERSON:3_SI	Ha’e oikotev? pirapire
+ID377	Che aikotev? pirapire	TENSE:FUT_SIM	Che aikotev?ta pirapire
+ID378	Che aikotev? pirapire	TENSE:PAS_REC	Che aikotev?kuri pirapire
+ID379	Upépe omba’apo hikuái ikokuépe	PERSON:2_PL	Upépe pemba’apo pende kokuépe
+ID380	Upépe omba’apo hikuái ikokuépe	PERSON:1_PL_EXC	Upépe romba’apo ore kokuépe
+ID381	Upépe omba’apo hikuái ikokuépe	TENSE:FUT_SIM	Upépe omba’apóta hikuái ikokuépe
+ID382	Upépe omba’apo hikuái ikokuépe	TYPE:NEG	Upépe nomba’apói hikuái ikokuépe
+ID383	Upépe omba’apo hikuái ikokuépe	ASPECT:INM	Upépe omba’apohikóni hikuái ikokuépe
+ID384	Upépe omba’apo hikuái ikokuépe	TENSE:PAS_IMP	Upépe omba’apómi hikuái ikokuépe
+ID385	Upéingo pyharepyte riremi añandúsapy’a ore koty rok? ombotáva	TENSE:PAS_REC	Upéingo pyharepyte riremi añandúkuri ore koty rok? ombotáva
+ID386	Upéingo pyharepyte riremi añandúsapy’a ore koty rok? ombotáva	ASPECT:INM	Upéingo pyharepyte riremi añandúsapy’ahikóni ore koty rok? ombotáva
+ID387	Upéingo pyharepyte riremi añandúsapy’a ore koty rok? ombotáva	TENSE:PAS_IMP	Upéingo pyharepyte riremi añandumi ore koty rok? ombotáva
+ID388	Upéingo pyharepyte riremi añandúsapy’a ore koty rok? ombotáva	PERSON:2_SI	Upéingo pyharepyte riremi reñandúsapy’a ore koty rok? ombotáva
+ID389	Upéingo pyharepyte riremi añandúsapy’a ore koty rok? ombotáva	PERSON:3_SI	Upéingo pyharepyte riremi oñandúsapy’a ore koty rok? ombotáva
+ID390	Ha’e oguatáta	PERSON:2_SI	Nde reguata
+ID391	Ha’e oguatáta	PERSON:1_SI	Che aguata
+ID392	Ha’e oguatáta	TENSE:PRE_SIM	Ha’e oguata
+ID393	Ha’e oguatáta	TYPE:NEG	Ha’e ndoguatái
+ID394	Ha’e oguatáta	ASPECT:IPFV	Ha’e oguatahína
+ID395	Ha’e oguatáta	ASPECT:INM	Ha’e oguataikóni
+ID396	Ha’e oguatáta	PERSON:1_PL_INC	Ñande jaguata
+ID397	Ha’e oguatáta	PERSON:1_PL_EXC	Ore roguata
+ID398	Maymave apysápe oike ne marandu	PERSON:1_PL_INC	Ñande apysápe oike ne marandu
+ID399	Maymave apysápe oike ne marandu	TENSE:FUT_SIM	Maymave apysápe oikéta ne marandu
+ID400	Maymave apysápe oike ne marandu	TYPE:NEG	Maymave apysápe ndoikéi ne marandu
+ID401	Maymave apysápe oike ne marandu	PERSON:1_PL_EXC	Ore apysápe oike ne marandu
+ID402	Maymave apysápe oike ne marandu	ASPECT:IPFV	Maymave apysápe oikehína ne marandu
+ID403	Maymave apysápe oike ne marandu	PERSON:2_PL	Pe? apysápe oike ne marandu
+ID404	Maymave apysápe oike ne marandu	TENSE:PAS_PLU	Maymave apysápe oikeva’ekue ne marandu
+ID405	Ore ndorojúi	PERSON:1_PL_INC	Ñande ndajajúi
+ID406	Ore ndorojúi	TENSE:PAS_PLU	Ore ndorojuiva'ekue
+ID407	Ore ndorojúi	TYPE:AFF	Ore roju 
+ID408	Ore ndorojúi	ASPECT:IPFV	Ore ndorojuihína
+ID409	Ore ndorojúi	TENSE:FUT_SIM	Ore ndorojumo'ãi
+ID410	Ore ndorojúi	PERSON:2_PL	Pe? ndapejúi
+ID411	Ore ndorojúi	PERSON:3_SI	Ha’e ndoumo'ãi
+ID412	Ore ndorojúi	PERSON:1_SI	Che ndajúi
+ID413	Che ambyasy	PERSON:2_PL	Pe? pembyasy
+ID414	Che ambyasy	PERSON:1_PL_INC	Ñande ñambyasy
+ID415	Che ambyasy	TENSE:PAS_PLU	Che ambyasy ¿va’ekue
+ID416	Che ambyasy	ASPECT:INM	Che ambyasyhikóni
+ID417	Che ambyasy	TYPE:NEG	Che nambyasýi
+ID418	Che ambyasy	PERSON:3_PL	Ha’ekuéra ombyasy
+ID419	Che ambyasy	TENSE:PAS_REC	Che ambyasýkuri
+ID420	Upéi ñarambosáta ñande gusto-pe	PERSON:1_PL_EXC	Upéi rorambosáta ore gusto-pe
+ID421	Upéi ñarambosáta ñande gusto-pe	TYPE:NEG	Upéi nañarambosamo'ãi ñande gusto-pe
+ID422	Upéi ñarambosáta ñande gusto-pe	TENSE:PAS_PLU	Upéi ñarambosáva’ekue ñande gusto-pe
+ID423	Upéi ñarambosáta ñande gusto-pe	PERSON:2_PL	Upéi perambosáta pende gusto-pe
+ID424	Upéi ñarambosáta ñande gusto-pe	PERSON:3_PL	Upéi orambosáta ha'ekuéra igusto-pe
+ID425	Upéi ñarambosáta ñande gusto-pe	TENSE:PRE_SIM	Upéi ñarambosa ñande gusto-pe
+ID426	Ã kuña  katupyry oñembisojovái	PERSON:3_SI	Ha'ekuéra oñembisojovái
+ID427	Ã kuña  katupyry oñembisojovái	TENSE:PAS_REC	Ã kuña katupyry oñembisojováikuri
+ID428	Ã kuña  katupyry oñembisojovái	TYPE:NEG	Ã kuña katupyry noñembisojováiri
+ID429	Ã kuña  katupyry oñembisojovái	ASPECT:INM	Ã kuña katupyry oñembisojovaihikóni
+ID430	Ã kuña  katupyry oñembisojovái	TENSE:PRE_SIM	Ã kuña katupyry oñembisojováiva’ekue
+ID431	Ore romono'õta mandyju	TYPE:NEG	Ore noromono’õmo'ãi mandyju
+ID432	Ore romono'õta mandyju	PERSON:1_PL_INC	Ñande ñamono’õta mandyju
+ID433	Ore romono'õta mandyju	PERSON:1_SI	Che amono’õta mandyju
+ID434	Ore romono'õta mandyju	TENSE:PAS_PLU	Ore romono’õva'ekue mandyju
+ID435	Ore romono'õta mandyju	ASPECT:IPFV	Ore romono’õtaroína mandyju
+ID436	Ore romono'õta mandyju	PERSON:2_SI	Nde remono’õ mandyju
+ID437	Pete? tapepo’i puku opahápe ojogapókuri karai Policarpo	TENSE:PAS_IMP	Pete? tapepo’i puku opahápe ojogapómi karai Policarpo
+ID438	Pete? tapepo’i puku opahápe ojogapókuri karai Policarpo	TENSE:PRE_SIM	Pete? tapepo’i puku opahápe ojogapo karai Policarpo
+ID439	Pete? tapepo’i puku opahápe ojogapókuri karai Policarpo	TYPE:NEG	Pete? tapepo’i puku opahápe ndojogapói karai Policarpo
+ID440	Pete? tapepo’i puku opahápe ojogapókuri karai Policarpo	ASPECT:INM	Pete? tapepo’i puku opahápe ojogapohikóni karai Policarpo
+ID441	Pete? tapepo’i puku opahápe ojogapókuri karai Policarpo	TENSE:FUT_SIM	Pete? tapepo’i puku opahápe ojogapóta karai Policarpo
+ID442	Ñande ndajajapói	PERSON:1_PL_EXC	Ore ndorojapói
+ID443	Ñande ndajajapói	PERSON:1_SI	Che ndajapói
+ID444	Ñande ndajajapói	PERSON:2_PL	Pe? ndapejapói
+ID445	Ñande ndajajapói	TYPE:AFF	Ñande jajapo
+ID446	Ñande ndajajapói	TENSE:FUT_SIM	Ñande ndajajapomo'ãi
+ID447	Ñande ndajajapói	ASPECT:IPFV	Ñande ndajajapoihína
+ID448	Ñande ndajajapói	TENSE:PAS_REC	Ñande ndajajapóikuri
+ID449	Nde nderejoguái	ASPECT:IPFV	Nde nderejoguaihína
+ID450	Nde nderejoguái	TYPE:AFF	Nde rejogua
+ID451	Nde nderejoguái	TENSE:FUT_SIM	Nde nderejoguamo'ãi
+ID452	Nde nderejoguái	TENSE:PAS_REC	Nde nderejoguáikuri
+ID453	Nde nderejoguái	PERSON:2_PL	Pe? ndapejoguái
+ID454	Nde nderejoguái	PERSON:1_PL_INC	Ñande ndajajoguái
+ID455	Nde nderejoguái	PERSON:1_SI	Che ndajoguái
+ID456	Ore ndorohecháimi	PERSON:1_PL_INC	Ñande ndajahechái
+ID457	Ore ndorohecháimi	TYPE:AFF	Ore rohechámi
+ID458	Ore ndorohecháimi	ASPECT:INM	Ore ndorohechaihikóni
+ID459	Ore ndorohecháimi	TENSE:FUT_SIM	Ore ndorohechamo'ãi
+ID460	Ore ndorohecháimi	TENSE:PRE_SIM	Ore ndorohechái
+ID461	Nde ndereñemúi	ASPECT:IPFV	Nde nereñemumihína
+ID462	Nde ndereñemúi	TYPE:AFF	Nde reñemu
+ID463	Nde ndereñemúi	TENSE:FUT_SIM	Nde nereñemumo'ãi
+ID464	Nde ndereñemúi	TENSE:PAS_REC	Nde nereñemúikuri
+ID465	Nde ndereñemúi	PERSON:2_PL	Pe? napeñemúikuri
+ID466	Nde ndereñemúi	PERSON:1_PL_INC	Ñande nañañemúikuri
+ID467	Nde ndereñemúi	PERSON:1_SI	Che nañemúi
+ID468	Ha'e oipe'áta	TYPE:NEG	Ha’e ndoipe’amo’ãi
+ID469	Ha'e oipe'áta	ASPECT:IPFV	Ha’e oipe’ahína
+ID470	Ha'e oipe'áta	TENSE:PRE_SIM	Ha’e oipe’a
+ID471	Ha'e oipe'áta	TENSE:PAS_PLU	Ha’e oipe’ava’ekue
+ID472	Ha'e oipe'áta	PERSON:2_SI	Nde reipe’a
+ID473	Ha'e oipe'áta	PERSON:1_SI	Che aipe’a
+ID474	Ha'e oipe'áta	PERSON:1_PL_EXC	Ñande jaipe’a
+ID475	Ha'e oipe'áta	PERSON:1_PL_INC	Ore roipe’a
+ID476	Vy’a guasuete ojaitypo maymáva ñe’ãme	PERSON:3_PL	Vy’a guasuete ojaitypo maymáva ñe’ãme
+ID477	Vy’a guasuete ojaitypo maymáva ñe’ãme	TYPE:NEG	Vy’a guasuete ndojaitypói maymáva ñe’ãme 
+ID478	Vy’a guasuete ojaitypo maymáva ñe’ãme	TENSE:FUT_SIM	Vy’a guasuete ojaitypóta maymáva ñe’ãme
+ID479	Vy’a guasuete ojaitypo maymáva ñe’ãme	TENSE:PAS_PLU	Vy’a guasuete ojaitypova’ekue maymáva ñe’ãme
+ID480	Vy’a guasuete ojaitypo maymáva ñe’ãme	TENSE:PAS_IMP	Vy’a guasuete ojaitypómi maymáva ñe’ãme
+ID481	Yvyrapã ojapo guajayvígui	PERSON:2_SI	Yvyrapã ojapo guajayvígui
+ID482	Yvyrapã ojapo guajayvígui	PERSON:1_PL_INC	Yvyrapã ojapo guajayvígui
+ID483	Yvyrapã ojapo guajayvígui	ASPECT:IPFV	Yvyrapã ojapo guajayvígui
+ID484	Yvyrapã ojapo guajayvígui	TYPE:NEG	Yvyrapã ojapo guajayvígui
+ID485	Yvyrapã ojapo guajayvígui	TENSE:PAS_PLU	Yvyrapã ojapo guajayvígui
+ID486	Nde nerekirir?rikuri henondépe	PERSON:2_PL	Pe? napekirir?rikuri henondépe
+ID487	Nde nerekirir?rikuri henondépe	TYPE:AFF	Nde rekirir? henondépe
+ID488	Nde nerekirir?rikuri henondépe	ASPECT:IPFV	Nde nerekirir?rihína henondépe
+ID489	Nde nerekirir?rikuri henondépe	PERSON:3_PL	Ha’ekuéra nokirir?rikuri henondépe
+ID490	Nde nerekirir?rikuri henondépe	PERSON:1_SI	Che nakirir?rikuri henondépe
+ID491	Nde nerekirir?rikuri henondépe	TENSE:FUT_SIM	Ore nokirir?mo'ãi henondépe
+ID492	Nde nerekirir?rikuri henondépe	PERSON:1_PL_EXC	Ñande ñakirir?ñaína henondépe
+ID493	Kuarahy ojope	TENSE:PAS_IMP	Kuarahy ojopémi
+ID494	Kuarahy ojope	TENSE:FUT_SIM	Kuarahy ojopéta
+ID495	Kuarahy ojope	TYPE:NEG	Kuarahy ndojopéi
+ID496	Kuarahy ojope	ASPECT:IPFV	Kuarahy ojopehína
+ID497	Kuarahy ojope	TENSE:PAS_PLU	Kuarahy ojopeva'ekue
+ID498	Pene rymbakuéra okarujoa	TYPE:NEG	Pene rymbakuéra ndokarujoái
+ID499	Pene rymbakuéra okarujoa	ASPECT:IPFV	Pene rymbakuéra okaruhína
+ID500	Pene rymbakuéra okarujoa	PERSON:3_SI	Hymbakuéra okarujoa
+ID501	Pene rymbakuéra okarujoa	TENSE:PAS_REC	Pene rymbakuéra okarujoákuri
+ID502	Pene rymbakuéra okarujoa	TENSE:PRE_SIM	Pene rymbakuéra okarujoa
+ID503	Pene rymbakuéra okarujoa	TENSE:PAS_PLU	Pene rymbakuéra okarujoava'ekue
+ID504	Ha'e nombyasymo'ãi	PERSON:1_SI	Che nambyasymo'ãi
+ID505	Ha'e nombyasymo'ãi	PERSON:1_PL_INC	Ñande nañambyasymo'ãi
+ID506	Ha'e nombyasymo'ãi	PERSON:1_PL_EXC	Ore norombyasymo'ãi
+ID507	Ha'e nombyasymo'ãi	TENSE:PAS_REC	Che nambyasymo'ãikuri
+ID508	Ha'e nombyasymo'ãi	TENSE:PAS_PLU	Che nambyasymo'ãiva'ekue
+ID509	Ha'e nombyasymo'ãi	TYPE:AFF	Ha'e ombyasýta
+ID510	Ha'e nombyasymo'ãi	TENSE:PRE_SIM	Ha'e ombyasy
+ID511	Ñande ñañemit?kuri	TENSE:PRE_SIM	Ñande ñañemit?
+ID512	Ñande ñañemit?kuri	TYPE:NEG	Ñande nañañemit?ri
+ID513	Ñande ñañemit?kuri	ASPECT:IPFV	Ñande ñañemit?ñaína
+ID514	Ñande ñañemit?kuri	ASPECT:INM	Ñande ñañemit? jaikóni
+ID515	Ñande ñañemit?kuri	PERSON:1_PL_EXC	Ore roñemit?
+ID516	Ñande ñañemit?kuri	PERSON:1_SI	Che añemit?
+ID517	Ha’e oma’?kuri	PERSON:1_SI	Che ama'?kuri
+ID518	Ha’e oma’?kuri	PERSON:2_SI	Nde rema'?kuri
+ID519	Ha’e oma’?kuri	TENSE:FUT_SIM	Ñande ñama'?ta
+ID520	Ha’e oma’?kuri	TYPE:NEG	Ñande nañama'?i
+ID521	Ha’e oma’?kuri	ASPECT:IPFV	Ha'e oma'?hína
+ID522	Ha’e oma’?kuri	PERSON:2_PL	Pe? pema'?kuri
+ID523	Ha’e oma’?kuri	PERSON:1_PL_EXC	Ore roma'?
+ID524	Pe? ndapeikemo'ãi	TYPE:AFF	Pe? peikéta
+ID525	Pe? ndapeikemo'ãi	TENSE:PAS_PLU	Pe? ndapeikeiva'ekue
+ID526	Pe? ndapeikemo'ãi	PERSON:3_SI	Ha'e ndoikemo'ãi
+ID527	Pe? ndapeikemo'ãi	PERSON:1_SI	Che ndaikemo'ãi
+ID528	Pe? ndapeikemo'ãi	PERSON:1_PL_INC	Ñande ndajaikemo'ãi
+ID529	Pe? ndapeikemo'ãi	TENSE:PRE_SIM	Che aike
+ID530	Aterere'aína	PERSON:2_SI	Retererereína
+ID531	Aterere'aína	PERSON:2_PL	Petererepeína
+ID532	Aterere'aína	TENSE:FUT_SIM	Atereréta'aína
+ID533	Aterere'aína	ASPECT:INM	Aterereta'aikóni
+ID534	Aterere'aína	TYPE:NEG	Ndatererei'aína
+ID535	Aterere'aína	PERSON:3_PL	Oterere'hína
+ID537	Ñande nañambotavýi	PERSON:1_PL_EXC	Ñande nañambotavýi
+ID538	Ñande nañambotavýi	PERSON:1_SI	Che nañembotavýi
+ID539	Ñande nañambotavýi	TENSE:FUT_SIM	Ñande nañañembotavymo'ãi
+ID540	Ñande nañambotavýi	ASPECT:IPFV	Ñande nañañembotavyi'ñaína
+ID541	Ñande nañambotavýi	TENSE:PAS_IMP	Ñande nañañembotavýimi
+ID542	Ñande nañambotavýi	PERSON:2_PL	Pe? ndapeñembotavýi
